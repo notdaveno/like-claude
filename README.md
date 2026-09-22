@@ -16,10 +16,21 @@ A pair of Typora themes (light + dark) inspired by the Claude documentation site
 
 ## Screenshots
 
-<!-- TODO: add screenshots, e.g.
-![Light](screenshots/light.png)
-![Dark](screenshots/dark.png)
--->
+**Like Claude Light**
+
+![Light theme — typography](screenshots/light-1.png)
+
+![Light theme — code & tables](screenshots/light-2.png)
+
+**Like Claude Dark**
+
+![Dark theme — typography](screenshots/dark-1.png)
+
+![Dark theme — code & tables](screenshots/dark-2.png)
+
+## Try It
+
+Open [`like-claude-showcase.md`](like-claude-showcase.md) in Typora after installing — it exercises headings, inline styles, quotes, code blocks, tables, and lists in one page.
 
 ## Install
 
